@@ -1,0 +1,1 @@
+introduction to stata in this class, more focused on concepts/math then complex coding
